@@ -38,7 +38,8 @@ Hoje desenvolvemos aplicações de impacto social para órgãos publicos, sempre
 ## Projetos
 Projeto mais recente que desenvolvi:
 
-[TV Câmara Pacatuba](https://tvcamara.cmpacatuba.ce.gov.br)
+[TV Câmara Pacatuba - CE](https://tvcamara.cmpacatuba.ce.gov.br)
+[TV Câmara São Gonçalo do Amarante - CE](https://tvcamara.cmsga.ce.gov.br)
 
 Local onde é transmitido as sessões municipais, levando mais inovação e impacto social.
 
