@@ -43,9 +43,9 @@ Projeto mais recente que desenvolvi:
 Local onde é transmitido as sessões municipais, levando mais inovação e impacto social.
 
 ## Contato
-- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/leonardoluized)
-- Email: leonarrdoluiz32@gmail.com
-- [Instagram](https://instagram.com/leonardoluiz.ed)
+- LinkedIn: [Linkedin](www.linkedin.com/in/leonardoluized)
+- Email: tecnologia@eudesenvolvo.com
+- Instagram: [Instagram](https://instagram.com/leonardoluiz.ed)
 
 
 Vamos nos conectar e colaborar em projetos incríveis juntos! 💻✨
