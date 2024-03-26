@@ -4,7 +4,7 @@
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e engenharia de software. Tenho experiência em várias áreas, incluindo desenvolvimento web, mobile, aprendizado de máquina e análise de dados. Sempre buscando aprender e compartilhar conhecimento, estou constantemente explorando novas tecnologias e desenvolvendo projetos interessantes. 
 Hoje desenvolvemos aplicações de impacto social para órgãos publicos, sempre levando ideias jenuinas para aprimorar o funcionamento do setor.
 
-![Leonardo](https://github-readme-stats.vercel.app/api?username=teceudesenvolvo&show_icons=true&theme=dark)
+![Leonardo](https://github-readme-stats.vercel.app/api?username=teceudesenvolvo&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teceudesenvolvo&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias WEB
   
